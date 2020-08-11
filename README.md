@@ -1,12 +1,12 @@
 # Billing-Expense-Tracker
 
-Goal: Build an end to end solution to consolidate/track your subscription based billing. 
+Goal: Build an end to end solution to consolidate/track your subscription based billing.
 
 ## Features
 
 1. Automatically Track Subscription Payments
 
-2. Platform to Pay 
+2. Platform to Pay
 
 
 #### 1. Automatically Tracking Subscription Pyametns
@@ -27,3 +27,5 @@ Why not work directly with companies
 Currently building for a mobile platform. Mern stack - using this opportunity to learn beyond Python!
 
 
+
+### Louis
